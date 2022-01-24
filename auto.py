@@ -1,5 +1,6 @@
 from subprocess import check_output, CalledProcessError 
 import sys
+#
 partitions = [1000,10000,100000,1000000,10000000,100000000]
 
 times = []
